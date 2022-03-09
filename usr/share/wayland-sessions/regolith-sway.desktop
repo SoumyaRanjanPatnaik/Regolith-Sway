@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Regolith-Sway
+Comment=Productivity focused desktop environment
+Exec=regolith-sway-session
+TryExec=sway
+Type=Application
+DesktopNames=Regolith-Sway;GNOME-Flashback;GNOME
